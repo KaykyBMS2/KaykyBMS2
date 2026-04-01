@@ -48,9 +48,8 @@ const kayky = {
 
 | Projeto | Descrição | Status |
 |--------|-----------|--------|
-| **[Carmem Bezerra](https://carmembezerra.com)** | Aluguel de vestidos para ensaios de gestantes 👗 | ✅ No ar |
-| **Carmem Kids** | Produtos para bebês e gestantes 🧸 | 🚀 Crescendo |
-| **Ateliê Carmem Bezerra** | Entidade jurídica — as duas marcas | ✅ Ativo |
+| **[Ateliê Carmem Bezerra](https://carmembezerra.com)** | Aluguel de vestidos para ensaios de gestantes 👗 | ✅ No ar |
+
 
 </div>
 
