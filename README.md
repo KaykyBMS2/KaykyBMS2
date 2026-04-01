@@ -34,7 +34,6 @@ const kayky = {
   apelido:    "Kayy",
   stack:      ["React", "Vite", "Supabase", "Vercel"],
   design:     ["Figma", "Glassmorphism", "Poppins", "Brand Identity"],
-  negócios:   ["Carmem Bezerra 👗", "Carmem Kids 🧸"],
   estado:     "sempre construindo algo novo ⚙️",
   frase:      "Sou uma metamorfose ambulante.",
 };
