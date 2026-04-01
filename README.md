@@ -78,24 +78,23 @@ const kayky = {
 
 ## 📊 GitHub Stats
 
-> ⚠️ **Substitua `kayky-martins` pelo seu username real do GitHub em todos os links abaixo.**
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayky-martins&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=2B2B2B&title_color=C4B5FD&icon_color=7C3AED&text_color=F7F7F7"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayky-martins&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=2B2B2B&title_color=C4B5FD&text_color=F7F7F7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaykyBMS2&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=2B2B2B&title_color=C4B5FD&icon_color=7C3AED&text_color=F7F7F7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaykyBMS2&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=2B2B2B&title_color=C4B5FD&text_color=F7F7F7"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kayky-martins&theme=midnight-purple&hide_border=true&background=2B2B2B&stroke=7C3AED&ring=7C3AED&fire=C4B5FD&currStreakLabel=F7F7F7&sideLabels=F7F7F7&dates=A1A1AA&currStreakNum=F7F7F7&sideNums=C4B5FD" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KaykyBMS2&theme=midnight-purple&hide_border=true&background=2B2B2B&stroke=7C3AED&ring=7C3AED&fire=C4B5FD&currStreakLabel=F7F7F7&sideLabels=F7F7F7&dates=A1A1AA&currStreakNum=F7F7F7&sideNums=C4B5FD" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kayky-martins&bg_color=2B2B2B&color=C4B5FD&line=7C3AED&point=F7F7F7&area=true&hide_border=true&area_color=7C3AED" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaykyBMS2&bg_color=2B2B2B&color=C4B5FD&line=7C3AED&point=F7F7F7&area=true&hide_border=true&area_color=7C3AED" width="100%"/>
 
 </div>
 
@@ -113,30 +112,13 @@ const kayky = {
 
 </div>
 
-> Para ativar a animação da cobra, veja a seção **⚙️ Como ativar a snake** ao final deste README.
-
----
-
-## 🎨 Design
-
-```
-Paleta universal dos meus projetos:
-  ■ #2B2B2B  — dark base (sempre presente)
-  □ #F7F7F7  — off-white (sempre presente)
-  ◆ cor de acento — varia por projeto / marca
-
-Fontes preferidas: Poppins · Nunito · DM Sans
-Border radius: 12–16px
-Estilo: Glassmorphism sutil, limpo, funcional, inovador.
-```
-
 ---
 
 ## 🌐 Onde me encontrar
 
 <div align="center">
 
-[![Instagram Carmem Bezerra](https://img.shields.io/badge/Instagram%20@carmembezerra-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carmembezerra)
+[![Instagram Carmem Bezerra](https://img.shields.io/badge/Instagram%20@kayymartinsds-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kayymartinsds)
 [![Website](https://img.shields.io/badge/carmembezerra.com-2B2B2B?style=for-the-badge&logo=vercel&logoColor=white)](https://carmembezerra.com)
 
 </div>
@@ -151,34 +133,3 @@ Estilo: Glassmorphism sutil, limpo, funcional, inovador.
 
 ---
 
-## ⚙️ Como ativar a snake animada
-
-Para a animação da cobra funcionar, crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil com este conteúdo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Depois é só esperar o workflow rodar (ou acionar manualmente) e o SVG será gerado automaticamente no branch `output`.
