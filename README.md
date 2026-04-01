@@ -18,7 +18,7 @@
 
 ### 👋 Olá, sou o Kayy
 
-Empreendedor, designer e dev full-stack de **Tianguá, Ceará 🇧🇷**.  
+Empreendedor, designer e dev full-stack.  
 Crio marcas, produtos e experiências digitais que têm identidade própria.  
 Cada projeto recebe sua personalidade — sem copy-paste de estilo.
 
@@ -32,7 +32,6 @@ Cada projeto recebe sua personalidade — sem copy-paste de estilo.
 const kayky = {
   nome:       "Kayky Martins",
   apelido:    "Kayy",
-  localidade: "Tianguá, CE — Brasil 🌵",
   stack:      ["React", "Vite", "Supabase", "Vercel"],
   design:     ["Figma", "Glassmorphism", "Poppins", "Brand Identity"],
   negócios:   ["Carmem Bezerra 👗", "Carmem Kids 🧸"],
