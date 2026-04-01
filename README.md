@@ -117,7 +117,7 @@ const kayky = {
 <div align="center">
 
 [![Instagram Carmem Bezerra](https://img.shields.io/badge/Instagram%20@kayymartinsds-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kayymartinsds)
-[![Website](https://img.shields.io/badge/carmembezerra.com-2B2B2B?style=for-the-badge&logo=vercel&logoColor=white)](https://carmembezerra.com)
+
 
 </div>
 
