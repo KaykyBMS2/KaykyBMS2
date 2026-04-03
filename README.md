@@ -1,132 +1,48 @@
-<div align="center">
+<h2 align="left">Hi there! My name is Kayy and I'm a Software Developer!</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2B2B,100:7C3AED&height=200&section=header&text=Kayky%20Martins&fontSize=50&fontColor=F7F7F7&fontAlignY=38&desc=Design%20%E2%80%A2%20Dev%20%E2%80%A2%20Business&descSize=18&descAlignY=60&descColor=C4B5FD&animation=fadeIn" width="100%"/>
+###
 
+<h4 align="left">I'm a passionate Frontend Developer specializing in building intuitive and dynamic user interfaces with React. I enjoy transforming ideas into seamless digital experiences and exploring modern web technologies.</h4>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaykyBMS2hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielGardini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<br/>
+###
 
-<div align="center">
+<br clear="both">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Entrepreneur+%E2%80%A2+Designer+%E2%80%A2+Developer;Building+brands+that+mean+something.)](https://git.io/typing-svg)
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
----
+###
 
-<div align="center">
-
-### 👋 Olá, sou o Kayy
-
-Empreendedor, designer e dev full-stack.  
-Crio marcas, produtos e experiências digitais que têm identidade própria.  
-Cada projeto recebe sua personalidade — sem copy-paste de estilo.
-
+<div align="left">
+  <a href="https://www.linkedin.com/in/KaykyBMS2/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/kayymartins/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@kayymartins" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
 </div>
 
----
-
-## 🚀 Sobre mim
-
-```ts
-const kayky = {
-  nome:       "Kayky Martins",
-  apelido:    "Kayy",
-  stack:      ["React", "Vite", "Supabase", "Vercel"],
-  design:     ["Figma", "Glassmorphism", "Poppins", "Brand Identity"],
-  estado:     "sempre construindo algo novo ⚙️",
-  frase:      "Sou uma metamorfose ambulante.",
-};
-```
-
----
-
-## 🏢 Projetos & Marcas
-
-<div align="center">
-
-| Projeto | Descrição | Status |
-|--------|-----------|--------|
-| **[Ateliê Carmem Bezerra](https://carmembezerra.com)** | Aluguel de vestidos para ensaios de gestantes 👗 | ✅ No ar |
-
-
-</div>
-
----
-
-## 🛠️ Stack & Ferramentas
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaykyBMS2&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=2B2B2B&title_color=C4B5FD&icon_color=7C3AED&text_color=F7F7F7"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaykyBMS2&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=2B2B2B&title_color=C4B5FD&text_color=F7F7F7"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KaykyBMS2&theme=midnight-purple&hide_border=true&background=2B2B2B&stroke=7C3AED&ring=7C3AED&fire=C4B5FD&currStreakLabel=F7F7F7&sideLabels=F7F7F7&dates=A1A1AA&currStreakNum=F7F7F7&sideNums=C4B5FD" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaykyBMS2&bg_color=2B2B2B&color=C4B5FD&line=7C3AED&point=F7F7F7&area=true&hide_border=true&area_color=7C3AED" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kayky-martins/kayky-martins/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kayky-martins/kayky-martins/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/kayky-martins/kayky-martins/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 🌐 Onde me encontrar
-
-<div align="center">
-
-[![Instagram Carmem Bezerra](https://img.shields.io/badge/Instagram%20@kayymartinsds-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kayymartinsds)
-
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2B2B2B&height=120&section=footer&text=Obrigado%20pela%20visita!&fontSize=20&fontColor=F7F7F7&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-</div>
-
----
-
+###
